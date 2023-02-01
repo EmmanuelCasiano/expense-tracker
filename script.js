@@ -101,3 +101,4 @@ function removeTransaction(id){
 init();
 
 form.addEventListener('submit', addTransaction);
+console.log("hi");
